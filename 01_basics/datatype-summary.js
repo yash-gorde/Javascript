@@ -12,7 +12,7 @@
 // const anotherId = Symbol('21')
 // console.log(id == anotherId);
 
-const bigNumber = 979139274325017597n
+// const bigNumber = 979139274325017597n
 
 
 // Reference (Non Primitive)
@@ -27,8 +27,37 @@ const bigNumber = 979139274325017597n
 //     age: 21
 // }
 
-const myFunction = function() {
-    console.log("hello, world");
+// const myFunction = function() {
+//     console.log("hello, world");
+// }
+
+// console.log(typeof bigNumber);
+
+
+// ----------------------------------------------------
+
+// Stack (Primitive), Heap (Non-primitive)
+
+// let friendName = "Yash"
+
+// let anotherFriendName = friendName
+// anotherFriendName = "Vedant"
+
+// console.log(anotherFriendName);
+// console.log(friendName);
+
+let user1 = {
+    email : "yashgorde@gmail.com",
+    upi : "user@ybl"
 }
 
-console.log(typeof bigNumber);
+let user2 = user1
+
+user2.email = "vedantsalunke@gmail.com"
+
+console.log(user1.email);
+console.log(user2.email);
+
+
+
+
