@@ -30,7 +30,7 @@ A simple **Number Guessing Game** built using HTML, CSS, and JavaScript. The obj
 ---
 
 ## Screenshot
-![Number Guessing Game Screenshot](https://raw.githubusercontent.com/yash-gorde/Javascript/main/07_projects/GuessTheNumber/image.png)
+![Number Guessing Game Screenshot](https://github.com/yash-gorde/Javascript/blob/main/07_projects/GuessTheNumber/image.png)
 
 ---
 
