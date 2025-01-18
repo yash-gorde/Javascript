@@ -30,14 +30,14 @@ A simple **Number Guessing Game** built using HTML, CSS, and JavaScript. The obj
 ---
 
 ## Screenshot
-![Number Guessing Game Screenshot](image.png)
+![Number Guessing Game Screenshot](https://raw.githubusercontent.com/yash-gorde/Javascript/main/07_projects/GuessTheNumber/image.png)
 
 ---
 
 ## Setup and Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/<your-username>/GuessTheNumber.git
+    git clone https://github.com/yash-gorde/Javascript/tree/main/07_projects/GuessTheNumber
     ```
 2. Navigate to the project directory:
     ```bash
@@ -49,11 +49,6 @@ A simple **Number Guessing Game** built using HTML, CSS, and JavaScript. The obj
 
 ## Contributing
 Feel free to fork this repository and make improvements. Pull requests are welcome!
-
----
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
