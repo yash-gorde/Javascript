@@ -28,3 +28,4 @@ const userTwo = new User('chaiaurcode', 11, false)
 console.log(userOne.constructor)
 // console.log(userOne)
 
+
